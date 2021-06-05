@@ -8,6 +8,6 @@ def gaus(nbr_input):
 		nbr += 1
 		nbrSomme += nbr
 
-	print (f"Nous allons calculer la somme de tous les nombre de 1 jusqu'à {nbrInput}\nLe résultat est {nbrSomme}")
+	print (f"Nous allons calculer la somme de tous les nombre de 1 jusqu'à {nbr_input}\nLe résultat est {nbrSomme}")
 
 gaus(nbrInput)
