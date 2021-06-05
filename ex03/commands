@@ -1,2 +1,2 @@
-sed "s/Corbeau/Chat/g" leCorbeauEtLeRenard.txt
-sed '/honteux/ s/Corbeau/Lolita/' leCorbeauEtLeRenard.txt
+sed "s/Corbeau/Chat/g" *.*
+sed '/honteux/ s/Corbeau/Lolita/' *.*
