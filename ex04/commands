@@ -1,2 +1,2 @@
-sed '/Never/ s/gonna/GONNA/' Never_gonna_give_you_up.RickRolled | sed '/give/ s/gonna/GONNA/'
-sed -e '/^$/d' Never_gonna_give_you_up.RickRolled
+sed '/Never/ s/gonna/GONNA/' *.* | sed '/give/ s/gonna/GONNA/'
+sed -e '/^$/d' *.*
