@@ -1,5 +1,2 @@
-etape 1
 sed "s/Corbeau/Chat/g" leCorbeauEtLeRenard.txt
-
-etape 2
 sed '/honteux/ s/Corbeau/Lolita/' leCorbeauEtLeRenard.txt
