@@ -1,3 +1,8 @@
+partie 1
 chmod 666 ControlIsAnIllusion.sh
-
 chmod 760 main.py 
+
+partie 2 
+touch -t 202106042042 ControlIsAnIllusion.sh
+touch -t 202106042043 main.py 
+
